@@ -9,7 +9,7 @@ Credit: "Global Map of Macedonia ©ISCGM/ Republic of Macedonia, Agency for Real
 
 Contact: Republic of Macedonia, Agency for Real Estate Cadastre.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/macedonia.png)
+E-mail: ![email](email.png)
 
 Postal address: str. Trifun Hadzi Janev 4; 1000 Skopje; MACEDONIA
 
